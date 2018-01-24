@@ -4,7 +4,8 @@
 
 更好的体验请访问 `GitHub Page`
 
-#### Record Tips Or Knowledge
+#### Record Tips Or Knowledge ![](http://okslxr2o0.bkt.clouddn.com/15168047258156.gif)
+
             
 记录 `知识` 与 `Tips` 笔记
 
