@@ -15,11 +15,10 @@
 # IOS
 1. [YYModel 阅读笔记](https://github.com/swlfigo/Study/wiki/YYModel%E9%98%85%E8%AF%BB%E5%AD%A6%E4%B9%A0)
 
-
 # Python
 
 
+# 杂项
+1. [Gogs配置指南](https://github.com/swlfigo/Study/wiki/Gogs%E6%90%AD%E5%BB%BA%E6%8C%87%E5%8D%97)
 
-
-# Docker
 
