@@ -22,5 +22,6 @@
 
 # 杂项
 1. [Gogs配置指南](https://github.com/swlfigo/Study/wiki/Gogs%E6%90%AD%E5%BB%BA%E6%8C%87%E5%8D%97)
+2. [Hexo博客Next主题添加Gitment评论系统坑点](https://github.com/swlfigo/Study/wiki/Hexo%E5%8D%9A%E5%AE%A2Next%E4%B8%BB%E9%A2%98%E6%B7%BB%E5%8A%A0Gitment%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E5%9D%91%E7%82%B9)
 
 
